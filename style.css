@@ -24,7 +24,7 @@ body {
   margin: auto;
   width: 210px;
   height: 274px;
-  border-radius: 10px;
+  border-radius: 1px;
   background: linear-gradient(-45deg, red 0%, yellow 100%);
   z-index: -10;
   pointer-events: none;
