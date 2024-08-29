@@ -4,7 +4,7 @@ body {
 
 .card {
   position: relative;
-  width: auto;
+  width: 128px;
   height: 254px;
   background-color: #000;
   display: flex;
@@ -14,6 +14,7 @@ body {
   gap: 12px;
   border-radius: 8px;
   cursor: pointer;
+  vertical-align: middle;
 }
 
 .card::before {
