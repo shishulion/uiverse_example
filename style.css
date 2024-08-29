@@ -4,7 +4,7 @@ body {
 
 .card {
   position: relative;
-  width: 190px;
+  width: auto;
   height: 254px;
   background-color: #000;
   display: flex;
