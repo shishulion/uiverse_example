@@ -10,8 +10,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: end;
-  padding: 2px;
-  gap: 2px;
+  padding: 12px;
+  gap: 12px;
   border-radius: 18px;
   cursor: pointer;
 }
