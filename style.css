@@ -22,8 +22,8 @@ body {
   inset: 0;
   left: -5px;
   margin: auto;
-  width: 220px;
-  height: 284px;
+  width: 215px;
+  height: 279px;
   border-radius: 12px;
   background: linear-gradient(-45deg, red 0%, yellow 100%);
   z-index: -10;
